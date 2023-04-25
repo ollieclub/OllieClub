@@ -1,0 +1,36 @@
+{
+    "card":[
+        {
+            "name": "Avocado",
+            "id": "avocado"
+        },
+        {
+            "name": "Avocado Half",
+            "id": "avocado_half"
+        },
+        {
+            "name": "Apple",
+            "id": "apple"
+        },
+        {
+            "name": "Apple Half",
+            "id": "apple_half"
+        },
+        {
+            "name": "Kiwi",
+            "id": "kiwi"
+        },
+        {
+            "name": "Kiwi Half",
+            "id": "kiwi_half"
+        },
+        {
+            "name": "Orange",
+            "id": "orange"
+        },
+        {
+            "name": "Orange Half",
+            "id": "orange_half"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Difficulty": {
+        "Easy": {
+            "chance": 5, 
+            "bonusNextLvlChance": 1,
+            "totalBox": 4,
+            "sizeBox": 200,
+            "grid": {
+                "width": 2,
+                "cellWidth": 210,
+                "cellHeight": 210,
+                "x": 0,
+                "y": -50
+            }
+        },
+        "Medium": {
+            "chance": 7,
+            "bonusNextLvlChance": 2,
+            "totalBox": 8,
+            "sizeBox": 170,
+            "grid": {
+                "width": 2,
+                "cellWidth": 180,
+                "cellHeight": 180,
+                "x": -10,
+                "y": -170
+            }
+        },
+        "Hard": {
+            "chance": 12,
+            "bonusNextLvlChance": 3,
+            "totalBox": 16,
+            "sizeBox": 150,
+            "grid": {
+                "width": 4,
+                "cellWidth": 160,
+                "cellHeight": 160,
+                "x": -18,
+                "y": -50
+            }
+        }
+    },
+    "Bgm": ["bgm.ogg","bgm.m4a"],
+    "EnableFullscreenButton": true,
+    "Credits": {
+        "Logo": {
+            "x": 0,
+            "y": -10
+        },
+        "Text": {
+            "x": 0,
+            "y": 95,
+            "fontSize": 14,
+            "color": "#000000",
+            "text": "Nouvelle Noel Kevin MacLeod (incompetech.com) \n Licensed under Creative Commons: By Attribution 3.0 License"
+        }
+    },
+    "DefaultScore": 100,
+    "DelayWrongCard": 1,
+    "Animation": {
+        "CardTweenSpeed": 200
+    }
+}
