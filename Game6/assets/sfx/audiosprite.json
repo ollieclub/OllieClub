@@ -1,0 +1,35 @@
+{
+  "resources": [
+    "audiosprite.ogg",
+    "audiosprite.m4a",
+    "audiosprite.mp3",
+    "audiosprite.ac3"
+  ],
+  "spritemap": {
+    "button": {
+      "start": 0,
+      "end": 0.1523809523809524,
+      "loop": false
+    },
+    "card_flip_close": {
+      "start": 2,
+      "end": 2.793832199546485,
+      "loop": false
+    },
+    "card_flip_open": {
+      "start": 4,
+      "end": 4.773514739229025,
+      "loop": false
+    },
+    "right_answer": {
+      "start": 6,
+      "end": 6.799637188208616,
+      "loop": false
+    },
+    "win": {
+      "start": 8,
+      "end": 9.092789115646259,
+      "loop": false
+    }
+  }
+}

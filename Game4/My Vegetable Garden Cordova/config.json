@@ -1,0 +1,41 @@
+﻿{
+	"id": "com.cgfx.game",
+	"version": "1.0.0.0",
+	"name": "My Vegetable Garden",
+	"description": "Fun Game",
+	"author": "CGFX Studio",
+	"email": "cgfxsrilanka@gmail.com",
+	"website": "https://codecanyon.net/user/pro_gaming/portfolio",
+	"fullscreen": "true",
+	"useragent": null,
+	"orientation": "landscape",
+	"icons": [{
+		"src": "www/icon-256.png",
+		"width": 256,
+		"height": 256,
+		"density": "xxxhdpi"
+	}, {
+		"src": "www/icon-128.png",
+		"width": 128,
+		"height": 128,
+		"density": "xhdpi"
+	}],
+	"plugins": [
+		{ "id": "cordova-custom-config", "version": null },
+		{ "id": "cordova-plugin-ad-admob", "version": null },
+		{ "id": "cordova-plugin-file", "version": null },
+		{ "id": "cordova-plugin-inappbrowser", "version": null },
+		{ "id": "cordova-plugin-statusbar", "version": null },
+		{ "id": "cordova-plugin-whitelist", "version": null },
+		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
+	],
+	"android": {
+		"min": 21,
+		"target": 29,
+		"plugins": []
+	},
+	"ios": {
+		"target": "10.0",
+		"plugins": []
+	}
+}
